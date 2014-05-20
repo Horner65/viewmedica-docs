@@ -13,7 +13,7 @@
 
 *Menu Structure*
 
-1. Library - The top level taxonomy item in ViewMedica 7.
+1. Library - The top level taxonomy item in ViewMedica 7 system.
 2. Collection - Subcategorizes libraries. For example, there are many collections in a library. If a collection is to be skipped, it is given the same name as the library.
 3. Group - Typically groups are divided into either Procedures, Conditions, and Surgical Procedures/Non-surgical Procedures.
 4. Item - A ViewMedica content item that can be viewed by the end user.
